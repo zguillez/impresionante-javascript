@@ -29,16 +29,18 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 ## Guías
 - [Guía de ECMASCript 6](http://sergio.xalambri.com.ar/) - Guía completa de ECMASCript 6/2015 con ejemplos ejecutables.
-
+- [Documentación de Redux](https://sergiodxa.gitbooks.io/redux-en-espanol/content/) - Traducción al español de la documentación de Redux (Trabajo en proceso)
 
 ## Artículos y Tutoriales
 ### Lenguaje
 - [Definiendo conceptos: Closure y Scope en JavaScript](https://medium.com/@sergiodxa/definiendo-conceptos-closure-y-scope-en-javascript-9081f1e113e6#.iogs2utvt) - Explicación de Closures y Scope.
 - [JavaScript: El lenguaje de programación más incomprendido del mundo](http://frontendlabs.io/3065--javascript-lenguaje-programacion-mas-incomprendido-mundo) - Conociendo un poco más a fondo que hay detrás de JS y por que es tan incomprendido.
+- [Entendiendo los tipos en JavaScript](https://medium.com/@yeion7/entendiendo-los-tipos-en-javascript-4c1c718e8e2a) - Explicación de como funciona los tipos de datos.
 - [Entendiendo This — JavaScript](https://medium.com/@yeion7/entendiendo-this-javascript-cba60c8cec8c) - Explicación de como funciona `this`.
 - [Funciones de alto orden en JavaScript](https://medium.com/@yeion7/funciones-de-alto-orden-en-javascript-42d04769d9b5) - Explicación del concepto y uso de funciones de alto orden.
 - [Calculo lambda en JavaScript](https://medium.com/@yeion7/calculo-lambda-en-javascript-57ea69b427b1) - Explicación del calculo lambda y su importancia en JavaScipt.
 - [Objetos en JavaScript](https://medium.com/@yeion7/entendiendo-los-objetos-en-javascript-3a6d3a0695e5) - Explicación del comportamiento de los objetos en JavaScript
+- [Getters y Setters en JavaScript](https://medium.com/@yeion7/entendiendo-getters-y-setters-en-javascript-f0eeb5d6fe06) - Explicación funcionamiento Getters y Setters.
 
 #### ECMAScript 6/7/etc
 - [ECMAScript 6: nueva sintaxis y características para JavaScript](https://platzi.com/blog/ecmascript-nueva-sintaxis/) - Clases en ECMAScript 6
@@ -79,6 +81,10 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Middlewares en Redux.js](https://medium.com/react-redux/middlewares-en-redux-js-88081fcd6c91) - Explicación de como hacer middlewares propios para Redux.js
 - [Pruebas unitarias en Redux.js](https://medium.com/react-redux/pruebas-unitarias-en-redux-js-d7285c013123) - Ejemplos de como hacer pruebas a nuestro código de Redux.js.
 - [Ruteo en aplicaciones de Redux y React.js](https://medium.com/react-redux/ruteo-en-aplicaciones-de-redux-y-react-js-d62de452bf1b) - Explicación de como manejar las rutas de una aplicación hecha con Redux y React.js.
+- [Estructura de archivos Ducks para Redux.js](https://medium.com/react-redux/estructura-de-archivos-ducks-para-redux-js-36bb56a70cb3#.z7qq00d55) - Buena práctica de como organizar creadores de acciones, reducers y tipos de acciones en módulos.
+- [Glosario de términos de Redux](https://medium.com/react-redux/glosario-de-términos-de-redux-c2bca005ca69) - Colección de términos usados en Redux junto a su explicación.
+- [Migrando a Redux](https://medium.com/react-redux/migrando-a-redux-f7a15457a805) - Guía de migración a Redux.js desde otra implementación de Flux.
+- [Manejo de errores en Redux.js](https://medium.com/react-redux/manejo-de-errores-en-redux-js-adf9dfa0129b) - Tutorial que explica como manejar errores en aplicaciones de Redux.js
 
 #### Polymer
 - [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
