@@ -28,8 +28,8 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 * [Libros](#libros)
 
 ## Guías
-- [Guía de ECMASCript 6](http://sergio.xalambri.com.ar/) - Guía completa de ECMASCript 6/2015 con ejemplos ejecutables.
-- [Documentación de Redux](https://sergiodxa.gitbooks.io/redux-en-espanol/content/) - Traducción al español de la documentación de Redux (Trabajo en proceso)
+- [Guía de ECMASCript 6](http://sergio.xalambri.com.ar/es6/) - Guía completa de ECMASCript 6/2015 con ejemplos ejecutables.
+- [Documentación de Redux](http://es.redux.js.org/) - Traducción al español de la documentación de Redux (Trabajo en proceso)
 
 ## Artículos y Tutoriales
 ### Lenguaje
@@ -41,6 +41,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Calculo lambda en JavaScript](https://medium.com/@yeion7/calculo-lambda-en-javascript-57ea69b427b1) - Explicación del calculo lambda y su importancia en JavaScipt.
 - [Objetos en JavaScript](https://medium.com/@yeion7/entendiendo-los-objetos-en-javascript-3a6d3a0695e5) - Explicación del comportamiento de los objetos en JavaScript
 - [Getters y Setters en JavaScript](https://medium.com/@yeion7/entendiendo-getters-y-setters-en-javascript-f0eeb5d6fe06) - Explicación funcionamiento Getters y Setters.
+- [Propiedades internas en JavaScript](https://medium.com/@yeion7/propiedades-internas-en-javascript-717057026516) - Explicación propiedades internas de los objetos.
 
 #### ECMAScript 6/7/etc
 - [ECMAScript 6: nueva sintaxis y características para JavaScript](https://platzi.com/blog/ecmascript-nueva-sintaxis/) - Clases en ECMAScript 6
@@ -74,6 +75,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/) - Introducción a conceptos de React.js.
 - [Renderizando React.js en el server con Express.js y react-engine](https://medium.com/@sergiodxa/renderizando-react-js-en-el-server-con-express-js-y-react-engine-903de08c3df6) - Tutorial de como hacer renderizado en el servidor con React.js y Express.js.
 - [Internacionalización con React.js y Format.js](https://medium.com/@sergiodxa/internacionalizaci%C3%B3n-con-react-js-y-formatjs-389957dbc098) - Como crear una aplicación multi idioma con React.js.
+- [Componentes de Alto Orden en React.js](https://medium.com/react-redux/2498211e933f) - Que son y como usar los Componentes de Alto Orden para extender componentes de React.js
 
 #### Redux.js
 - [Introducción a Redux.js](https://medium.com/react-redux/introducci%C3%B3n-a-redux-js-8bdf4fe0751e) - Introducción a conceptos de Redux.js
@@ -85,6 +87,10 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 - [Glosario de términos de Redux](https://medium.com/react-redux/glosario-de-términos-de-redux-c2bca005ca69) - Colección de términos usados en Redux junto a su explicación.
 - [Migrando a Redux](https://medium.com/react-redux/migrando-a-redux-f7a15457a805) - Guía de migración a Redux.js desde otra implementación de Flux.
 - [Manejo de errores en Redux.js](https://medium.com/react-redux/manejo-de-errores-en-redux-js-adf9dfa0129b) - Tutorial que explica como manejar errores en aplicaciones de Redux.js
+- [Creando código modular con ducks de Redux](https://medium.com/react-redux/creando-c%C3%B3digo-modular-con-ducks-de-redux-bfd7b67ff8c0) - Tutorial sobre como usar la librería [react-duck](https://github.com/sergiodxa/redux-duck) para crear código modular.
+- [Usando Redux en el servidor con Socket.io](https://medium.com/react-redux/61e31242e366) - Tutorial sobre como usar Redux para mantener el estado del servidor en aplicaciones Real-time.
+- [Renderizando aplicaciones de Redux en el servidor](https://medium.com/react-redux/1f6cb0b557c9) - Tutorial sobre como usar Redux en aplicaciones renderizadas en el servidor.
+- [Obteniendo datos en aplicaciones de Redux](https://medium.com/react-redux/1007e8703521) - Tutorial sobre como manejar peticiones al servidor en aplicaciones de Redux.
 
 #### Polymer
 - [Introducción a Polymer](http://www.adictosaltrabajo.com/tutoriales/polymer-2/) - Introducción a Polymer 1.0
